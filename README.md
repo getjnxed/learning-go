@@ -7,3 +7,5 @@ This repository will contain all learnings from this year's seminar about buildi
 - [Go and WebAssembly](#)
 
 ### Go And WebAssembly
+
+This topic will contain guides and informations for building embedded systems with Go and WebAssembly
